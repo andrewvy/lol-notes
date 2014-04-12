@@ -1,0 +1,1 @@
+angular.module('main', ['ionic', 'main.controllers', 'main.routes']);

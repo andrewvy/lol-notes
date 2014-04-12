@@ -1,0 +1,44 @@
+/* Empty. Add your own CSS if you like */
+
+.box {
+  width: 100%;
+  height: 100%;
+  margin-top: 45px;
+  text-align: center;
+}
+
+.box h1 {
+  font-size: 74px;
+}
+
+.blue {
+  background-color: #00AFFF;
+}
+
+.yellow {
+  background-color: #FFF300;
+}
+
+.pink {
+  background-color: #FF0092;
+}
+
+.slider {
+  height: 100%;
+}
+
+.middle-content {
+  text-align: center;
+}
+
+.menu-left {
+  background-color: #DDD;
+}
+
+.item-content {
+  background-color: #EEE !important;
+}
+
+.logo {
+  margin-top: 5px !important;
+}
